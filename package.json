@@ -1,5 +1,5 @@
 {
-  "name": "react-native-do-documentation",
+  "name": "react-native-do-purple-sky-documentation",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wcandillon/react-native-do-documentation.git"
+    "url": "git+https://github.com/wcandillon/react-native-do-purple-sky-documentation.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wcandillon/react-native-do-documentation/issues"
+    "url": "https://github.com/wcandillon/react-native-do-purple-sky-documentation/issues"
   },
-  "homepage": "https://github.com/wcandillon/react-native-do-documentation#readme",
+  "homepage": "https://github.com/wcandillon/react-native-do-purple-sky-documentation#readme",
   "devDependencies": {
     "gitbook-cli": "^2.3.0"
   }
