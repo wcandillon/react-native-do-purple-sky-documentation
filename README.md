@@ -1,4 +1,4 @@
-# React Native DO
+# React Native DO Purple Sky
 
 <img src="images/react-native-do.gif" width="300" style="margin: 16px;" />
 
