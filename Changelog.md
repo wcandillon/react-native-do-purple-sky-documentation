@@ -4,6 +4,7 @@
 * Refactoring to the latest NativeBase version. No more references to `StyleSheet.flatten()`.
 * Upgrade to latest version of `flow`.
 * Upgrade `react-navigation` version.
+* Update `React`, `React Native`, and `Expo` packages.
 * Fixed splash screen and improved logo.
 * Minor improvements in component folder structure.
 * Fix layout for iPhoneX.
