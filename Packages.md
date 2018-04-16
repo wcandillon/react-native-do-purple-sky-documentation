@@ -3,7 +3,7 @@
 ```json
 {
     "name": "react-native-do-purple-sky",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "private": true,
     "devDependencies": {
         "babel-eslint": "^8.2.1",

@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.2.2
+* Upgrade to Expo 26
+
 ## 1.2.0
 * Refactoring to the latest NativeBase version. No more references to `StyleSheet.flatten()`.
 * Upgrade to latest version of `flow`.
