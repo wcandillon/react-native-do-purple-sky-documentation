@@ -49,7 +49,7 @@
         "mobx": "^3.1.9",
         "mobx-react": "^4.1.8",
         "moment": "^2.18.1",
-        "native-base": "2.3.1",
+        "native-base": "2.4.1",
         "react": "16.3.0-alpha.1",
         "react-native": "https://github.com/expo/react-native/archive/sdk-26.0.0.tar.gz",
         "react-native-swiper": "^1.5.4",
