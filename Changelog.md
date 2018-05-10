@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.2.3
+* Upgrade to Expo 27
+
 ## 1.2.2
 * Upgrade to Expo 26
 
