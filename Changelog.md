@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.4
+* Remove MobX dependency
+
+## 1.2.3
+* Update to Expo 27
+
 ## 1.2.2
 * Upgrade to Expo 26
 
